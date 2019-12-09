@@ -3,13 +3,13 @@
 
 https://blog.csdn.net/HuiFeiDeTuoNiaoGZ/article/details/103466801
 
-安装服务端
+服务端
 ============
 go get -v github.com/gaozhen1734/Server/
 
 go run main.go
 
-安装客户端
+客户端
 =============
 
 npm install
